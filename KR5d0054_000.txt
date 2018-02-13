@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
-¶
 <md:KR5d0054_HFL_000-001a>¶
 <pb:KR5d0054_SBCK_000-1a>
 山海經序¶
@@ -63,6 +62,7 @@
 　　　寘諸公庫摹印流傳永為
 　　　士大夫博學之¶助成化戊子<md:KR5d0054_HFL_000-004a>¶　　　夏五月朝刋大夫⬤子祭酒
 　　　襄⬤邢瀼等僅俧
+# ?
 <pb:KR5d0054_SBCK_000-4a>
 山海經校勘記
 卷上
