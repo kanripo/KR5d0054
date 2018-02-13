@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
-<md:KR5d0054_HFL_006-006b>¶<pb:KR5d0054_SBCK_006-4b>
 <md:KR5d0054_HFL_007-001a>¶
 <pb:KR5d0054_SBCK_007-1a>
 海外西經¶第七　郭氏傳
@@ -59,3 +58,4 @@
 (推之則此人脚過三丈矣黄帝時至或/曰長脚人常⬤長臂人入海中捕魚也)一曰長脚(或/曰)
 (¶有喬國今伎家/喬人盖⬤此身)¶
 西方蓐⬤左耳有蛇乘兩龍(<md:KR5d0054_HFL_007-005b>¶金神也人靣虎⬤/白毛執⬤見¶外傳)
+<md:KR5d0054_HFL_007-006b>¶

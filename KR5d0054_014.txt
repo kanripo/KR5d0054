@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
-<pb:KR5d0054_SBCK_013-5b>
-
 <pb:KR5d0054_SBCK_014-1a>
 大荒東經第十四　郭氏傳
 東海之外大壑(詩含神霧曰東注無底之谷/謂此壑也離騷曰降土大壑)少昊之
@@ -89,3 +87,4 @@
 <pb:KR5d0054_SBCK_014-5a>
 如雷其名曰䕫黄帝得之以其皮為皷橛以雷獸之
 骨(雷獸即雷神也人面龍/身皷其腹者橛猶擊也)聲聞五百里以威天下
+<pb:KR5d0054_SBCK_014-5b>

@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
-<md:KR5d0054_HFL_005-043b>¶<pb:KR5d0054_SBCK_005-35b>
 <md:KR5d0054_HFL_006-001a>¶
 <pb:KR5d0054_SBCK_006-1a>
 海外南經¶第六　郭氏傳
@@ -67,3 +66,4 @@
 <pb:KR5d0054_SBCK_006-4a>
 (之/屬)視肉虖交(所未/詳也)¶其范林方三百里(言林木汜/濫布衍也)
 ⬤¶方祝融獸身人面乘兩龍(火神/也)
+<md:KR5d0054_HFL_006-006b>¶<pb:KR5d0054_SBCK_006-4b>

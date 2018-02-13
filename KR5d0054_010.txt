@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
-<md:KR5d0054_HFL_009-005b>¶
 <md:KR5d0054_HFL_010-001a>¶
 <pb:KR5d0054_SBCK_010-1a>
 海内南經¶第十　郭氏傳
@@ -49,3 +48,4 @@
 旄馬其狀如馬四節有毛(穆天子傳所謂毫/馬者亦有旄牛)¶在巴蛇
 西北髙山南<md:KR5d0054_HFL_010-003b>¶匈奴(一曰/獫狁)開題之國(音/提)列人之國並在西北¶(三國並/在旄馬)
 (西/北)
+<md:KR5d0054_HFL_010-004b>¶<pb:KR5d0054_SBCK_010-3b>

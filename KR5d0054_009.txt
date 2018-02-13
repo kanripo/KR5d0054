@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
-
-
 <pb:KR5d0054_SBCK_009-1a>
 海外東經第<md:KR5d0054_HFL_009-001a>¶九¶　郭氏傳¶¶
 海外自東南陬至東北陬者¶
@@ -59,3 +57,4 @@
 <pb:KR5d0054_SBCK_009-3b>
 　　中光禄勲臣龔侍中奉車都尉光禄¶大夫(臣)秀
 　　領主省
+<md:KR5d0054_HFL_009-005b>¶

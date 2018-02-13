@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
-¶
-
 <pb:KR5d0054_SBCK_004-1a>
 東山經第<md:KR5d0054_HFL_004-001a>¶四¶
 　　　　　¶　　　　　　　郭氏傳
@@ -160,3 +158,4 @@
 凡東次四經之首自北號之山至于大山凡¶八山一
 千七百二十里¶
 　右東經之山志凡四十六山萬八千八百¶六十里
+<pb:KR5d0054_SBCK_004-10a>

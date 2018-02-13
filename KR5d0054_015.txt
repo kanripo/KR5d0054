@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
-<pb:KR5d0054_SBCK_014-5b>
-
 <pb:KR5d0054_SBCK_015-1a>
 大荒南經第十五　郭氏傳
 南海之外赤水之西流沙之東(赤水出崑崙山/流沙出鍾山也)有獸

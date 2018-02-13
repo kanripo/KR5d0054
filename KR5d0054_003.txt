@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
-¶
-
 <pb:KR5d0054_SBCK_003-1a>
 北山經第<md:KR5d0054_HFL_003-001a>¶三¶　郭氏傳¶¶
 北山經之首曰單狐之山多机木(机木似榆可燒以/糞稲田出蜀中音)

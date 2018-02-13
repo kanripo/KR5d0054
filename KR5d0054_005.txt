@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
-<pb:KR5d0054_SBCK_004-10a>
-
 <pb:KR5d0054_SBCK_005-1a>
 中山經第<md:KR5d0054_HFL_005-001a>¶五¶　郭氏傳¶¶
 中山經薄山之首曰甘棗之山共水出焉(¶音/恭)而西流
@@ -675,3 +673,4 @@
 <pb:KR5d0054_SBCK_005-35a>
 謂國用(⬤子地數云封禪/之王七十二家也)¶
 　右五臧山經五篇大凡一萬五千五百三¶字
+<md:KR5d0054_HFL_005-043b>¶<pb:KR5d0054_SBCK_005-35b>

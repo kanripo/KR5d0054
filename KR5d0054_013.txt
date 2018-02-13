@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
-¶
-
 <pb:KR5d0054_SBCK_013-1a>
 海内東經第<md:KR5d0054_HFL_013-001a>¶十三¶　郭氏傳¶¶
 海内東北陬以南者¶
@@ -89,3 +87,4 @@
 　¶　建平元年四月丙戌待詔太常属(臣)望校<md:KR5d0054_HFL_013-005b>¶治侍
 　　中光禄勳臣龔侍中奉車都尉光禄¶大夫臣秀
 　　領主省
+<pb:KR5d0054_SBCK_013-5b>

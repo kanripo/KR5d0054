@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
-<md:KR5d0054_HFL_010-004b>¶<pb:KR5d0054_SBCK_010-3b>
 <md:KR5d0054_HFL_011-001a>¶
 <pb:KR5d0054_SBCK_011-1a>
 海内西經¶第十一　郭氏傳
@@ -54,3 +53,4 @@
 開明南有樹鳥六首蛟(蛟似蛇四/脚龍⬤也)蝮蛇蜼豹¶鳥秩樹
 (木名/未詳)於表池樹木(言列樹以表/池即華池也)誦鳥¶(鳥名形/未詳也)鶽(雕也/穆天)
 (子傳曰爰有白鶽/青雕音竹荀之筍)視肉
+<md:KR5d0054_HFL_011-005b>¶
